@@ -1,25 +1,7 @@
-# synth-link-controller-web-81y
+# agent-infra-synth-link-controller-web-81y
 
-Message-driven reactive system
+Project repository.
 
-## Installation
+## Development
 
-```bash
-pip install -e .
-```
-
-## Usage
-
-```bash
-python src/main.py
-```
-
-## Testing
-
-```bash
-pytest
-```
-
-## License
-
-MIT
+Add setup, usage, and testing instructions.
